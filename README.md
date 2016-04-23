@@ -39,6 +39,7 @@ sm_cvar z_spitter_health "300"
 sm_cvar z_charger_health "1650"
 sm_cvar z_jockey_health "960"
 sm_cvar z_gas_health "744"
+sm_cvar z_charge_duration "6"
 ```
 
 # Desclaimer
