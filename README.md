@@ -18,6 +18,21 @@ l4d_survivor_limit "12"
 l4d_infected_limit "12"
 director_ci_multi "0"
 
+l4d_smokeit_speed "0.5"
+l4d_smokeit_tongue_stretch "8000"
+
+l4d2_charger_steering_bots "0"
+l4d2_charger_steering_hint "4"
+l4d2_charger_steering_hints "5"
+l4d2_charger_steering_strafe "80.0"
+
+l4d2_jockeyjump_delay "0.0"
+l4d2_jockeyjump_force "599.0"
+l4d2_jockeyjump_rechargebar "0"
+
+l4d2_points_boomer "5"
+l4d2_points_tank "50"
+
 sm_cvar first_aid_kit_max_heal "300"
 sm_cvar first_aid_kit_use_duration "3"
 sm_cvar z_spitter_health "300"
